@@ -1,0 +1,13 @@
+.idea
+*.iml
+.nyc_output
+
+node_modules
+typings
+target/
+
+*.log
+
+lib
+staging
+*.jar

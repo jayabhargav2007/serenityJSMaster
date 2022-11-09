@@ -1,0 +1,31 @@
+# IntelliJ
+.idea
+*.iml
+
+# Node
+node_modules
+typings
+!typings.json
+*.log
+.npmignore
+.nyc_output
+
+# Build process
+staging
+gulpfile.config.js
+gulpfile.js
+mocha.opts
+
+# Pre-transpiled sources and specs
+behaviour
+cookbook
+examples
+spec
+src
+
+target
+*.json
+TODO.md
+
+# Runtime caches
+.cache
